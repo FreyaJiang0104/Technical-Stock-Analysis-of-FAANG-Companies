@@ -1,4 +1,4 @@
-# Business-Analytics-Toolbox-Project: Technical Stock Analysis of FAANG Companies
+# Business Analytics Toolbox Project: Technical Stock Analysis of FAANG Companies
 
 Tableau Dashboard Link: https://public.tableau.com/views/BA775DashboardA10_17022275738370/FAANGPortfolioAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
